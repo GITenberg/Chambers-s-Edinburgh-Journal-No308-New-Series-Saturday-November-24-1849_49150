@@ -38,6 +38,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Chambers''s Edinburgh Journal, No.308
 
   New Series, Saturday, November 24, 1849'
